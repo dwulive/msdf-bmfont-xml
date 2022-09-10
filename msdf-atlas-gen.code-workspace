@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../sdf/msdf-atlas-gen"
+		},
+		{
+			"path": "../../../sdf"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"powershell.cwd": "s:\\sdf\\msdf-atlas-gen",
+		"vsLauncher.pathToVS": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\Common7\\IDE\\devenv.exe"
+	}
+}
